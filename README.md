@@ -4,4 +4,4 @@
 
    The SDRUI dataset can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1kHeDGYjoLNNqHeF9FTExcg?pwd=SDUI) (Password：SDUI). 
    
-   The dataset can only be used for non-commercial purpose. If you use our dataset, please cite the paper. Thanks.
+   The dataset can only be used for non-commercial purpose. 
